@@ -17,7 +17,6 @@
 
 
 <?php
-$color = "red";
 echo "Sport club " . $color . "<br>";
 echo "Sport club 1 " . $COLOR . "<br>";
 echo "Sport club 2  " . $coLOR . "<br>";
